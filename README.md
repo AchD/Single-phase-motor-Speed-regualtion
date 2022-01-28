@@ -17,9 +17,11 @@ PIN 8   = RC2     Input->   JP 2
 
 Configuration Hardware:
 LED - green     0-12VDC Input signal adjust (blink-slow=low range / blink-fast=high range)
+
 LED -red        Boost sequence at start
 
 JP 1            Closed = simplePWM (Standard PWM- compact ON/OFF packets)     / Open = smartPWM with spreading ON/OFF sinuses (less oscilation on low speed)
+
 JP 2            Closed = PWM with set speed                                   / Open = Starting with 100% (Boost) and ramp down to set speed (more reliable)
 
 For poti look description of manufacturer.
