@@ -1,4 +1,4 @@
-# Single-phase-pump-speedregualtion
+# Speed control with 0-10VDC (isolated) 
 This is a speed control for standard heating-pumps with single-phase-motor. I use this for my solar-heating-pump.
 
 Specifiactions:
