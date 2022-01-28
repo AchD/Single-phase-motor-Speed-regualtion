@@ -1,5 +1,5 @@
 # Single-phase-pump-speedregualtion
-This is a speed control for standard heating-pumps with single-phase-motor. 
+This is a speed control for standard heating-pumps with single-phase-motor. I use this for my solar-heating-pump.
 
 Specifiactions:
 - Power 750W/230VAc / 350W/110VAC
