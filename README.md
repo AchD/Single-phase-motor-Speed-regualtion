@@ -1,4 +1,4 @@
-# 1-phase-pump-speedregualtion
+# Single-phase-pump-speedregualtion
 The current project is it, to refurbish my 15 years old solar heating system. By doing this i found out that a static running solar-heat-pump is out of date. It hard to find a cheap speed regulation for AC-single-phase-pumps. So I had to solve it by DIY.
 
 My solution takes less than 30€ (including PIC-programmer) and it is a very reliable PWM- Speed Regulation for AC-single-phase-pumps up to 750W!
