@@ -7,6 +7,7 @@ Specifiactions:
 
 You need:
 - solder-construction-kit Velleman K8064 (https://www.velleman.eu/support/downloads/?code=K8064) 15€
+  (The follow-up WSL8064 seams to be the same hardware, but i never tried. If you have experience, please let us know.)
 - Microchip Programmer for USB like Dolla Tek K150 ICSP PIC 13€
 - Microchip MPLAB -Free Download (https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
 
